@@ -1,0 +1,17 @@
+I will not remove the fail safe of a limit of how many times the program with go
+(I dont want to be responsible for when u set the delay to .0001 and ur computer is unusable for a few hours)
+
+May add a option to allow multiple clicks at one cord
+
+HOW TO USE:
+
+Click the GET X Y, either move the button to where you want the x and y cord
+or click the delayed button and hover over where you need x and y
+
+copy the x and y into the designated box, then repeat supports up to 20 cord selections.
+this program does a single click at each one, can be set up as a auto clicker at 1 cord by getting the x and y
+then changing the delay to whatevery you want then adding a number to how many times to repeat.
+
+there are no hotkeys to stop the program, so this is your warning
+
+Have fun!
